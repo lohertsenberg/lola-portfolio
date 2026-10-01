@@ -1,0 +1,100 @@
+---
+title: ""
+---
+
+<div class="project-hero">
+
+<div class="section-label">EXPERIENCE & LEADERSHIP</div>
+
+<h1 class="project-page-title">
+Beyond the <span class="pink">classroom.</span>
+</h1>
+
+<p class="project-page-intro">
+Leadership, consulting, and academic experiences that have helped me develop skills in marketing, communication, collaboration, and strategy.
+</p>
+
+</div>
+
+---
+
+<div class="experience-list">
+
+<div class="experience-item">
+
+<div class="experience-side">
+<div class="experience-date">2026 – 2027</div>
+<div class="experience-type">LEADERSHIP</div>
+</div>
+
+<div class="experience-main">
+
+<h2>President</h2>
+
+<h3>Alpha Kappa Psi</h3>
+
+<p>
+Lead chapter operations and work with the executive board to coordinate meetings, events, member engagement, and organizational initiatives.
+</p>
+
+<div class="project-skills">
+LEADERSHIP • COMMUNICATION • EVENT PLANNING • TEAM MANAGEMENT
+</div>
+
+</div>
+
+</div>
+
+
+<div class="experience-item">
+
+<div class="experience-side">
+<div class="experience-type">CONSULTING</div>
+</div>
+
+<div class="experience-main">
+
+<h2>Student Consulting</h2>
+
+<h3>Alpha Kappa Psi</h3>
+
+<p>
+Collaborated on student consulting projects focused on business challenges, research, analysis, and the development of strategic recommendations.
+</p>
+
+<div class="project-skills">
+RESEARCH • STRATEGY • PRESENTATION • COLLABORATION
+</div>
+
+</div>
+
+</div>
+
+
+<div class="experience-item">
+
+<div class="experience-side">
+<div class="experience-date">Expected 2027</div>
+<div class="experience-type">EDUCATION</div>
+</div>
+
+<div class="experience-main">
+
+<h2>B.S. Marketing Management</h2>
+
+<h3>Cal Poly Pomona</h3>
+
+<p>
+Coursework and projects spanning marketing strategy, consumer behavior, research, entertainment marketing, digital media, and multimedia journalism.
+</p>
+
+<div class="project-skills">
+MARKETING • CONSUMER INSIGHTS • MEDIA • RESEARCH
+</div>
+
+</div>
+
+</div>
+
+</div>
+---

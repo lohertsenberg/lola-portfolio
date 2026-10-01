@@ -1,0 +1,103 @@
+---
+title: ""
+---
+
+<div class="project-hero">
+
+<div class="section-label">ABOUT ME</div>
+
+<h1 class="project-page-title">
+Hi, I'm <span class="pink">Lola.</span>
+</h1>
+
+<p class="project-page-intro">
+I'm a fourth-year Marketing Management student at Cal Poly Pomona interested in the intersection of marketing, media, and storytelling.
+</p>
+
+</div>
+
+<div class="about-layout">
+
+<div class="about-photo">
+
+<img src="images/lola2026headshot.jpg">
+
+</div>
+
+<div class="about-text">
+
+<h2>Marketing with a creative perspective.</h2>
+
+<p>
+My interests are primarily in entertainment and sports marketing, with a particular interest in how brands, media companies, teams, and organizations connect with audiences.
+</p>
+
+<p>
+My experience at Cal Poly Pomona has allowed me to explore marketing from several perspectives, including consumer behavior, research, entertainment marketing, social media, journalism, and multimedia storytelling.
+</p>
+
+<p>
+Outside the classroom, I've developed leadership and business experience through Alpha Kappa Psi, where I serve as President. I've also participated in student consulting projects and created social media content for the organization.
+</p>
+
+<p>
+I'm especially interested in opportunities where strategy and creativity overlap — whether that's developing a campaign, understanding an audience, creating digital content, or telling a story through media.
+</p>
+
+</div>
+
+</div>
+
+---
+
+<div class="portfolio-section">
+
+<div class="section-label">AREAS OF INTEREST</div>
+
+<h2 class="section-title">What I'm drawn to.</h2>
+
+<div class="interest-grid">
+
+<div class="interest-card">
+
+<h3>Entertainment</h3>
+
+<p>
+Film, television, streaming, audience strategy, and entertainment marketing.
+</p>
+
+</div>
+
+<div class="interest-card">
+
+<h3>Sports</h3>
+
+<p>
+Fan engagement, sports culture, branding, partnerships, and audience development.
+</p>
+
+</div>
+
+<div class="interest-card">
+
+<h3>Digital Media</h3>
+
+<p>
+Social media, content creation, multimedia journalism, and visual storytelling.
+</p>
+
+</div>
+
+<div class="interest-card">
+
+<h3>Strategy</h3>
+
+<p>
+Consumer insights, research, campaign development, and creative problem solving.
+</p>
+
+</div>
+
+</div>
+
+</div>

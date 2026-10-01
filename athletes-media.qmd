@@ -1,0 +1,63 @@
+---
+title: ""
+---
+
+<div class="project-hero">
+
+<div class="section-label">SPORTS & MEDIA</div>
+
+<h1 class="project-page-title">
+Athletes, Family & <span class="pink">Media.</span>
+</h1>
+
+<p class="project-page-intro">
+A group media analysis examining how athletes and their families are portrayed online, and how digital media shapes public perception around sports figures.
+</p>
+
+<div class="project-skills">
+MEDIA ANALYSIS • SPORTS CULTURE • DIGITAL MEDIA • RESEARCH
+</div>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">ABOUT THE PROJECT</div>
+
+<h2 class="case-study-title">Sports stories don't stop on the field.</h2>
+
+<p>
+For this group project, we analyzed how athletes and their families are represented across online media and how those portrayals can shape the way audiences understand public figures.
+</p>
+
+<p>
+Our research considered the relationship between sports, celebrity culture, family representation, and digital media.
+</p>
+
+<p>
+The project required research, media analysis, collaboration, and presentation of our findings.
+</p>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">FULL PROJECT</div>
+
+<h2 class="case-study-title">Explore the analysis.</h2>
+
+<p class="project-description">
+Scroll through the full presentation below.
+</p>
+
+<iframe
+src="projects/media-analysis-athletes-media.pdf"
+class="pdf-viewer">
+</iframe>
+
+</div>
+---

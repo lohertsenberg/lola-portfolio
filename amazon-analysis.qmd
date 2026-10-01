@@ -1,0 +1,82 @@
+---
+title: ""
+---
+
+<div class="project-hero">
+
+<div class="section-label">MARKETING RESEARCH • ORGANIZATIONAL ANALYSIS</div>
+
+<h1 class="project-page-title">
+Amazon Employee <span class="pink">Analysis.</span>
+</h1>
+
+<p class="project-page-intro">
+A group research project examining employee satisfaction and workplace practices at Amazon through research, analysis, and strategic recommendations.
+</p>
+
+<div class="project-skills">
+RESEARCH • DATA ANALYSIS • TEAMWORK • PRESENTATION DESIGN
+</div>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">ABOUT THE PROJECT</div>
+
+<h2 class="case-study-title">Looking beyond the brand.</h2>
+
+<p>
+For this group project, we analyzed employee satisfaction and workplace practices at Amazon to better understand the relationship between organizational practices and the employee experience.
+</p>
+
+<p>
+Our team combined research and analysis to identify key findings and develop recommendations based on the issues we examined.
+</p>
+
+<p>
+The project included both a written report and a presentation communicating our research, findings, and recommendations.
+</p>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">PRESENTATION</div>
+
+<h2 class="case-study-title">Explore the presentation.</h2>
+
+<p class="project-description">
+Scroll through our presentation below.
+</p>
+
+<iframe
+src="projects/amazon-analysis-powerpoint.pdf"
+class="pdf-viewer">
+</iframe>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">WRITTEN ANALYSIS</div>
+
+<h2 class="case-study-title">Read the full report.</h2>
+
+<p class="project-description">
+The written report provides additional detail on our research, analysis, findings, and recommendations.
+</p>
+
+<iframe
+src="projects/amazon-analysis-report.pdf"
+class="pdf-viewer">
+</iframe>
+
+</div>
+---
