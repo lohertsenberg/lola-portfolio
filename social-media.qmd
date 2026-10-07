@@ -4,137 +4,106 @@ title: ""
 
 <div class="project-hero">
 
-  <div class="section-label">
-    SOCIAL MEDIA
-  </div>
+<div class="section-label">
+SOCIAL MEDIA
+</div>
 
-  <h1 class="project-page-title">
-    AKPsi Social <span class="pink">Content.</span>
-  </h1>
+<h1 class="project-page-title">
+AKPsi Social <span class="pink">Content.</span>
+</h1>
 
-  <p class="project-page-intro">
-    Social media content created for Alpha Kappa Psi to promote events, engage members, support recruitment, and strengthen the chapter's online presence.
-  </p>
+<p class="project-page-intro">
+Social media content created for Alpha Kappa Psi to promote events, engage members, support recruitment, and strengthen the chapter's online presence.
+</p>
 
-  <div class="project-skills">
-    SOCIAL MEDIA • CONTENT CREATION • BRAND COMMUNICATION • VIDEO
-  </div>
+<div class="project-skills">
+SOCIAL MEDIA • CONTENT CREATION • BRAND COMMUNICATION • VIDEO
+</div>
 
 </div>
 
 
 <div class="case-study-section">
 
-  <div class="section-label">
-    SELECTED CONTENT
-  </div>
+<div class="section-label">
+SELECTED CONTENT
+</div>
 
-  <h2 class="case-study-title">
-    Instagram & TikTok.
-  </h2>
+<h2 class="case-study-title">
+Instagram & TikTok.
+</h2>
 
-  <p>
-    A selection of social media content created as Director of Social Media and Marketing for Alpha Kappa Psi's Chi Epsilon chapter.
-  </p>
-
-
-  <div class="social-grid">
+<p>
+A selection of social media content created as Director of Social Media and Marketing for Alpha Kappa Psi's Chi Epsilon chapter.
+</p>
 
 
-    <!-- BROTHER OF THE MONTH -->
+<div class="social-grid">
 
-    <div class="social-item">
+<div class="social-item">
 
-      <a
-        href="https://www.instagram.com/p/DJcngcVTHPM/"
-        target="_blank"
-        rel="noopener noreferrer">
+<a href="https://www.instagram.com/p/DJcngcVTHPM/" target="_blank" rel="noopener noreferrer">
+<img src="images/akpsi-1.png" class="social-image" alt="Brother of the Month Instagram post">
+</a>
 
-        <img
-          src="images/akpsi-1.png"
-          class="social-image">
+<div class="project-category">
+INSTAGRAM • BROTHER OF THE MONTH
+</div>
 
-      </a>
-
-      <div class="project-category">
-        INSTAGRAM • BROTHER OF THE MONTH
-      </div>
-
-    </div>
+</div>
 
 
-    <!-- RHO INTRO -->
+<div class="social-item">
 
-    <div class="social-item">
+<a href="https://www.instagram.com/p/DJAL1QxTxQm/?img_index=1" target="_blank" rel="noopener noreferrer">
+<img src="images/akpsi-2.png" class="social-image" alt="Rho Intro Instagram post">
+</a>
 
-      <a
-        href="https://www.instagram.com/p/DJAL1QxTxQm/?img_index=1"
-        target="_blank"
-        rel="noopener noreferrer">
+<div class="project-category">
+INSTAGRAM • RHO INTRO
+</div>
 
-        <img
-          src="images/akpsi-2.png"
-          class="social-image">
-
-      </a>
-
-      <div class="project-category">
-        INSTAGRAM • RHO INTRO
-      </div>
-
-    </div>
+</div>
 
 
-    <!-- REEL -->
+<div class="social-item">
 
-    <div class="social-item">
+<video class="social-video" controls playsinline preload="metadata">
+<source src="projects/akpsi-reel.mp4" type="video/mp4">
+Your browser does not support the video element.
+</video>
 
-      <video
-        class="social-video"
-        controls
-        playsinline
-        preload="metadata">
+<div class="project-category">
+VIDEO • REEL CONTENT
+</div>
 
-        <source
-          src="projects/akpsi-reel.mp4"
-          type="video/mp4">
+</div>
 
-        Your browser does not support the video tag.
-
-      </video>
-
-      <div class="project-category">
-        VIDEO • REEL CONTENT
-      </div>
-
-    </div>
-
-
-  </div>
+</div>
 
 </div>
 
 
 <div class="case-study-section">
 
-  <div class="section-label">
-    STRATEGY
-  </div>
+<div class="section-label">
+STRATEGY
+</div>
 
-  <h2 class="case-study-title">
-    Building an audience through content.
-  </h2>
+<h2 class="case-study-title">
+Building an audience through content.
+</h2>
 
-  <p>
-    As Director of Social Media and Marketing, I directed cross-platform content strategy supporting recruitment, philanthropy, professional development, and chapter-wide campaigns.
-  </p>
+<p>
+As Director of Social Media and Marketing, I directed cross-platform content strategy supporting recruitment, philanthropy, professional development, and chapter-wide campaigns.
+</p>
 
-  <p>
-    The launch of the chapter's TikTok account helped double average post views from 5K to 10K and contributed to a 29% increase in recruitment applications.
-  </p>
+<p>
+The launch of the chapter's TikTok account helped double average post views from 5K to 10K and contributed to a 29% increase in recruitment applications.
+</p>
 
-  <div class="project-skills">
-    CONTENT STRATEGY • AUDIENCE ENGAGEMENT • TIKTOK • INSTAGRAM
-  </div>
+<div class="project-skills">
+CONTENT STRATEGY • AUDIENCE ENGAGEMENT • TIKTOK • INSTAGRAM
+</div>
 
 </div>
