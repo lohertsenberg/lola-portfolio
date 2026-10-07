@@ -4,214 +4,210 @@ title: ""
 
 <div class="home-hero">
 
-  <div class="home-hero-text">
+<div class="home-hero-text">
 
-    <div class="section-label">
-      MARKETING • MEDIA • STORYTELLING
-    </div>
+<div class="section-label">
+MARKETING • MEDIA • STORYTELLING
+</div>
 
-    <h1 class="home-title">
-      Marketing, media & <span class="pink">storytelling.</span>
-    </h1>
+<h1 class="home-title">
+Marketing, media & <span class="pink">storytelling.</span>
+</h1>
 
-    <p class="home-intro">
-      I'm a Marketing Management student at Cal Poly Pomona with experience in digital marketing, social media, content creation, and audience strategy. I'm especially interested in entertainment, sports, and long-form media.
-    </p>
+<p class="home-intro">
+I'm a Marketing Management student at Cal Poly Pomona with experience in digital marketing, social media, content creation, and audience strategy. I'm especially interested in entertainment, sports, and long-form media.
+</p>
 
-    <a class="portfolio-button" href="work.qmd">
-      VIEW MY WORK →
-    </a>
+<a class="portfolio-button" href="work.qmd">
+VIEW MY WORK →
+</a>
 
-  </div>
+</div>
 
-  <div class="home-hero-photo">
-    <img src="images/lola2026headshot.jpg" class="home-headshot">
-  </div>
+<div class="home-hero-photo">
+
+<img src="images/lola2026headshot.jpg" class="home-headshot">
+
+</div>
 
 </div>
 
 
 <div class="home-featured">
 
-  <div class="featured-header">
+<div class="featured-header">
 
-    <div>
-      <div class="section-label">
-        SELECTED WORK
-      </div>
+<div>
 
-      <h2 class="section-title">
-        Projects<span class="pink">.</span>
-      </h2>
-    </div>
+<div class="section-label">
+SELECTED WORK
+</div>
 
-    <a class="view-all" href="work.qmd">
-      VIEW ALL →
-    </a>
+<h2 class="section-title">
+Projects<span class="pink">.</span>
+</h2>
 
-  </div>
+</div>
 
+<a class="view-all" href="work.qmd">
+VIEW ALL →
+</a>
 
-  <div class="row featured-grid">
-
-
-    <!-- LEGACY SEQUEL -->
-
-    <div class="col-md-6 col-lg-3">
-
-      <div class="featured-card">
-
-        <img src="images/entertainment.png" class="featured-image">
-
-        <div class="featured-card-content">
-
-          <div class="project-category">
-            ENTERTAINMENT MARKETING
-          </div>
-
-          <h3>
-            The Legacy Sequel Formula
-          </h3>
-
-          <p>
-            An analysis of nostalgia, audience expectations, and franchise strategy in legacy sequel marketing.
-          </p>
-
-          <a class="project-link" href="legacy-sequel.qmd">
-            VIEW PROJECT →
-          </a>
-
-        </div>
-
-      </div>
-
-    </div>
+</div>
 
 
-    <!-- AMAZON -->
-
-    <div class="col-md-6 col-lg-3">
-
-      <div class="featured-card">
-
-        <img src="images/amazon.png" class="featured-image">
-
-        <div class="featured-card-content">
-
-          <div class="project-category">
-            MARKETING RESEARCH
-          </div>
-
-          <h3>
-            Amazon Employee Analysis
-          </h3>
-
-          <p>
-            A group research project examining employee satisfaction and workplace practices at Amazon.
-          </p>
-
-          <a class="project-link" href="amazon-analysis.qmd">
-            VIEW PROJECT →
-          </a>
-
-        </div>
-
-      </div>
-
-    </div>
+<div class="row featured-grid">
 
 
-    <!-- INNOVATION BREW WORKS -->
+<div class="col-md-6 col-lg-3">
 
-    <div class="col-md-6 col-lg-3">
+<div class="featured-card">
 
-      <div class="featured-card">
+<img src="images/entertainment.png" class="featured-image">
 
-        <img src="images/ibw.png" class="featured-image">
+<div class="featured-card-content">
 
-        <div class="featured-card-content">
+<div class="project-category">
+ENTERTAINMENT MARKETING
+</div>
 
-          <div class="project-category">
-            MULTIMEDIA JOURNALISM
-          </div>
+<h3>
+The Legacy Sequel Formula
+</h3>
 
-          <h3>
-            Innovation Brew Works
-          </h3>
+<p>
+An analysis of nostalgia, audience expectations, and franchise strategy in legacy sequel marketing.
+</p>
 
-          <p>
-            A multimedia journalism project combining reporting, visual storytelling, and video.
-          </p>
+<a class="project-link" href="legacy-sequel.qmd">
+VIEW PROJECT →
+</a>
 
-          <a class="project-link" href="ibw.qmd">
-            VIEW PROJECT →
-          </a>
+</div>
 
-        </div>
+</div>
 
-      </div>
-
-    </div>
+</div>
 
 
-    <!-- ATHLETES -->
+<div class="col-md-6 col-lg-3">
 
-    <div class="col-md-6 col-lg-3">
+<div class="featured-card">
 
-      <div class="featured-card">
+<img src="images/sports-pr.png" class="featured-image">
 
-        <img src="images/athletes.png" class="featured-image">
+<div class="featured-card-content">
 
-        <div class="featured-card-content">
+<div class="project-category">
+SPORTS MARKETING
+</div>
 
-          <div class="project-category">
-            SPORTS & MEDIA
-          </div>
+<h3>
+Sports Communication PR
+</h3>
 
-          <h3>
-            Athletes, Family & Media
-          </h3>
+<p>
+A brand and communications plan developed for a conceptual AAA baseball franchise.
+</p>
 
-          <p>
-            A media analysis examining how athletes and their families are portrayed online.
-          </p>
+<a class="project-link" href="sports-pr.qmd">
+VIEW PROJECT →
+</a>
 
-          <a class="project-link" href="athletes-media.qmd">
-            VIEW PROJECT →
-          </a>
+</div>
 
-        </div>
+</div>
 
-      </div>
-
-    </div>
+</div>
 
 
-  </div>
+<div class="col-md-6 col-lg-3">
+
+<div class="featured-card">
+
+<img src="images/ibw.png" class="featured-image">
+
+<div class="featured-card-content">
+
+<div class="project-category">
+MULTIMEDIA JOURNALISM
+</div>
+
+<h3>
+Innovation Brew Works
+</h3>
+
+<p>
+A multimedia journalism project combining reporting, visual storytelling, and video.
+</p>
+
+<a class="project-link" href="ibw.qmd">
+VIEW PROJECT →
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="col-md-6 col-lg-3">
+
+<div class="featured-card">
+
+<img src="images/akpsi-1.png" class="featured-image">
+
+<div class="featured-card-content">
+
+<div class="project-category">
+SOCIAL MEDIA
+</div>
+
+<h3>
+AKPsi Social Content
+</h3>
+
+<p>
+Instagram and TikTok content created to promote events and engage the chapter community.
+</p>
+
+<a class="project-link" href="social-media.qmd">
+VIEW PROJECT →
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+
+</div>
 
 </div>
 
 
 <div class="home-callout">
 
-  <div class="callout-content">
+<div class="callout-content">
 
-    <div class="section-label">
-      A LITTLE MORE ABOUT ME
-    </div>
+<div class="section-label">
+A LITTLE MORE ABOUT ME
+</div>
 
-    <h2>
-      Strategy meets <span class="pink">creativity.</span>
-    </h2>
+<h2>
+Strategy meets <span class="pink">creativity.</span>
+</h2>
 
-    <p>
-      From growing social audiences to developing marketing strategies and producing multimedia content, I enjoy finding the story behind an audience and figuring out how to make people care.
-    </p>
+<p>
+From growing social audiences to developing marketing strategies and producing multimedia content, I enjoy finding the story behind an audience and figuring out how to make people care.
+</p>
 
-    <a class="project-link" href="about.qmd">
-      MORE ABOUT ME →
-    </a>
+<a class="project-link" href="about.qmd">
+MORE ABOUT ME →
+</a>
 
-  </div>
+</div>
 
 </div>
