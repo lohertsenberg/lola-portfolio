@@ -80,18 +80,4 @@ title: ""
     The accompanying video expands the story through visual reporting and interviews.
   </p>
 
-  <video
-    class="project-video"
-    controls
-    playsinline
-    preload="metadata">
-
-    <source
-      src="projects/cpp-ibw-video-web.mp4"
-      type="video/mp4">
-
-    Your browser does not support the video element.
-
-  </video>
-
-</section>
+  <video class="project-video" controls playsinline preload="metadata"><source src="projects/cpp-ibw-video-web.mp4" type="video/mp4"></video>
