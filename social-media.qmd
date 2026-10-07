@@ -2,96 +2,139 @@
 title: ""
 ---
 
-::::: project-hero
-::: section-label
-SOCIAL MEDIA
-:::
+<div class="project-hero">
 
-<h1 class="project-page-title">
+  <div class="section-label">
+    SOCIAL MEDIA
+  </div>
 
-AKPsi Social [Content.]{.pink}
+  <h1 class="project-page-title">
+    AKPsi Social <span class="pink">Content.</span>
+  </h1>
 
-</h1>
+  <p class="project-page-intro">
+    Social media content created for Alpha Kappa Psi to promote events, engage members, support recruitment, and strengthen the chapter's online presence.
+  </p>
 
-<p class="project-page-intro">
-
-Social media content created for Alpha Kappa Psi to promote chapter events, communicate with members, and create engaging content for Instagram.
-
-</p>
-
-::: project-skills
-CONTENT CREATION • SOCIAL MEDIA • VISUAL DESIGN • VIDEO EDITING
-:::
-:::::
-
-------------------------------------------------------------------------
-
-:::: case-study-section
-::: section-label
-ABOUT THE WORK
-:::
-
-<h2 class="case-study-title">
-
-Creating content for a student organization.
-
-</h2>
-
-<p>As President of Alpha Kappa Psi, I have contributed to the chapter's social media presence by creating content designed to communicate events and highlight the organization.</p>
-
-<p>These projects gave me experience adapting content for social platforms while considering visual identity, messaging, audience engagement, and short-form video.</p>
-::::
-
-------------------------------------------------------------------------
-
-::::::: case-study-section
-::: section-label
-SOCIAL CONTENT
-:::
-
-<h2 class="case-study-title">
-
-Selected posts.
-
-</h2>
-
-::::: social-grid
-::: social-item
-<img src="images/akpsi-1.png" class="social-image"/>
-:::
-
-::: social-item
-<img src="images/akpsi-2.png" class="social-image"/>
-:::
-:::::
-:::::::
-
-------------------------------------------------------------------------
-
-:::: case-study-section
-::: section-label
-SHORT-FORM VIDEO
-:::
-
-<h2 class="case-study-title">
-
-Instagram Reel.
-
-</h2>
-
-<p class="project-description">
-
-Short-form video content created for the chapter's social media.
-
-</p>
-
-<video class="project-video social-video" controls poster="images/akpsi-3.png">
-
-<source src="projects/akpsi-reel.mp4" type="video/mp4">
-
-Your browser does not support the video element. </video>
+  <div class="project-skills">
+    SOCIAL MEDIA • CONTENT CREATION • BRAND COMMUNICATION • VIDEO
+  </div>
 
 </div>
 
-------------------------------------------------------------------------
-::::
+
+<div class="case-study-section">
+
+  <div class="section-label">
+    SELECTED CONTENT
+  </div>
+
+  <h2 class="case-study-title">
+    Instagram & TikTok.
+  </h2>
+
+  <p>
+    A selection of social media content created as Director of Social Media and Marketing for Alpha Kappa Psi's Chi Epsilon chapter.
+  </p>
+
+
+  <div class="social-grid">
+
+
+    <!-- BROTHER OF THE MONTH -->
+
+    <div class="social-item">
+
+      <a
+        href="https://www.instagram.com/p/DJcngcVTHPM/"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        <img
+          src="images/akpsi-1.png"
+          class="social-image">
+
+      </a>
+
+      <div class="project-category">
+        INSTAGRAM • BROTHER OF THE MONTH
+      </div>
+
+    </div>
+
+
+    <!-- RHO INTRO -->
+
+    <div class="social-item">
+
+      <a
+        href="https://www.instagram.com/p/DJAL1QxTxQm/?img_index=1"
+        target="_blank"
+        rel="noopener noreferrer">
+
+        <img
+          src="images/akpsi-2.png"
+          class="social-image">
+
+      </a>
+
+      <div class="project-category">
+        INSTAGRAM • RHO INTRO
+      </div>
+
+    </div>
+
+
+    <!-- REEL -->
+
+    <div class="social-item">
+
+      <video
+        class="social-video"
+        controls
+        playsinline
+        preload="metadata">
+
+        <source
+          src="projects/akpsi-reel.mp4"
+          type="video/mp4">
+
+        Your browser does not support the video tag.
+
+      </video>
+
+      <div class="project-category">
+        VIDEO • REEL CONTENT
+      </div>
+
+    </div>
+
+
+  </div>
+
+</div>
+
+
+<div class="case-study-section">
+
+  <div class="section-label">
+    STRATEGY
+  </div>
+
+  <h2 class="case-study-title">
+    Building an audience through content.
+  </h2>
+
+  <p>
+    As Director of Social Media and Marketing, I directed cross-platform content strategy supporting recruitment, philanthropy, professional development, and chapter-wide campaigns.
+  </p>
+
+  <p>
+    The launch of the chapter's TikTok account helped double average post views from 5K to 10K and contributed to a 29% increase in recruitment applications.
+  </p>
+
+  <div class="project-skills">
+    CONTENT STRATEGY • AUDIENCE ENGAGEMENT • TIKTOK • INSTAGRAM
+  </div>
+
+</div>

@@ -7,14 +7,15 @@ title: ""
 <div class="section-label">ABOUT ME</div>
 
 <h1 class="project-page-title">
-Hi, I'm <span class="pink">Lola.</span>
+Hi, I'm <span class="pink">Lola</span>
 </h1>
 
 <p class="project-page-intro">
-I'm a fourth-year Marketing Management student at Cal Poly Pomona interested in the intersection of marketing, media, and storytelling.
+I am a fourth-year Marketing Management student at Cal Poly Pomona, interested in the intersection of marketing, media, sports, entertainment, and storytelling.
 </p>
 
 </div>
+
 
 <div class="about-layout">
 
@@ -24,79 +25,206 @@ I'm a fourth-year Marketing Management student at Cal Poly Pomona interested in 
 
 </div>
 
+
 <div class="about-text">
 
-<h2>Marketing with a creative perspective.</h2>
+<h2>Marketing with a media mindset.</h2>
 
 <p>
-My interests are primarily in entertainment and sports marketing, with a particular interest in how brands, media companies, teams, and organizations connect with audiences.
+Growing up in San Francisco, sports and entertainment have always been a big part of what I follow. I'm especially interested in the San Francisco Giants and the Cincinnati Bengals (my love for the Bengals comes from my dad growing up in Cincinnati).
 </p>
 
 <p>
-My experience at Cal Poly Pomona has allowed me to explore marketing from several perspectives, including consumer behavior, research, entertainment marketing, social media, journalism, and multimedia storytelling.
+That interest in sports and entertainment has shaped the kinds of marketing and media work I'm drawn to. I'm particularly interested in how teams, entertainment brands, creators, and media companies build audiences and turn stories into experiences worth following.
 </p>
 
 <p>
-Outside the classroom, I've developed leadership and business experience through Alpha Kappa Psi, where I serve as President. I've also participated in student consulting projects and created social media content for the organization.
+At Cal Poly Pomona, I'm pursuing a B.S. in Business Administration with an emphasis in Marketing and a minor in Communications (Multimedia Journalism). My coursework has allowed me to explore marketing strategy, consumer behavior, research, entertainment marketing, sports communication, journalism and digital media.
 </p>
 
 <p>
-I'm especially interested in opportunities where strategy and creativity overlap — whether that's developing a campaign, understanding an audience, creating digital content, or telling a story through media.
+Outside of the classroom, I've gained hands-on experience in digital marketing, social media, content strategy, video editing, and audience growth. I've worked in marketing and social media roles, including leading digital growth strategies, influencer campaigns, and social platforms, while also developing freelance video content using Adobe Premiere Pro and After Effects.
+</p>
+
+<p>
+I'm especially passionate about long-form content creation and pop culture. I enjoy taking a topic I'm interested in and turning it into something people can spend time with, from a marketing analysis or multimedia stories, to visual content.
+</p>
+
+<p>
+My goal is to work where strategy and creativity can overlap: understanding an audience, developing an idea and figuring out how to tell the story in a way that makes people care.
 </p>
 
 </div>
 
 </div>
+
 
 ---
 
 <div class="portfolio-section">
 
-<div class="section-label">AREAS OF INTEREST</div>
+<div class="section-label">WHAT I'M INTO</div>
 
-<h2 class="section-title">What I'm drawn to.</h2>
+<h2 class="section-title">
+Interests & <span class="pink">Inspiration.</span>
+</h2>
+
 
 <div class="interest-grid">
+
 
 <div class="interest-card">
 
 <h3>Entertainment</h3>
 
 <p>
-Film, television, streaming, audience strategy, and entertainment marketing.
+Film, television, streaming, pop culture, entertainment marketing, and the strategies behind successful franchises.
 </p>
 
 </div>
+
 
 <div class="interest-card">
 
 <h3>Sports</h3>
 
 <p>
-Fan engagement, sports culture, branding, partnerships, and audience development.
+The San Francisco Giants, Cincinnati Bengals, sports marketing, fan engagement, sports communication, and athlete branding.
 </p>
 
 </div>
+
+
+<div class="interest-card">
+
+<h3>Long-Form Content</h3>
+
+<p>
+Multimedia journalism, video, storytelling, interviews, research, and creating content people can actually spend time with.
+</p>
+
+</div>
+
 
 <div class="interest-card">
 
 <h3>Digital Media</h3>
 
 <p>
-Social media, content creation, multimedia journalism, and visual storytelling.
+Social media strategy, audience growth, content creation, visual design, and understanding how people interact with media.
 </p>
 
 </div>
 
-<div class="interest-card">
 
-<h3>Strategy</h3>
+</div>
+
+</div>
+
+
+---
+
+<div class="portfolio-section">
+
+<div class="section-label">SKILLS & TOOLS</div>
+
+<h2 class="section-title">
+What I <span class="pink">work with.</span>
+</h2>
+
+
+<div class="skills-grid">
+
+
+<div class="skill-group">
+
+<h3>Marketing</h3>
 
 <p>
-Consumer insights, research, campaign development, and creative problem solving.
+Growth Strategy<br>
+Customer Acquisition<br>
+Brand Positioning<br>
+Audience Segmentation<br>
+Influencer Strategy<br>
+Performance Marketing<br>
+Customer Retention
 </p>
 
 </div>
+
+
+<div class="skill-group">
+
+<h3>Creative & Media</h3>
+
+<p>
+Social Media Strategy<br>
+Content Creation<br>
+Video Editing<br>
+Motion Graphics<br>
+Visual Storytelling<br>
+Multimedia Journalism
+</p>
+
+</div>
+
+
+<div class="skill-group">
+
+<h3>Tools</h3>
+
+<p>
+Adobe Creative Suite<br>
+Adobe Premiere Pro<br>
+After Effects<br>
+Canva<br>
+CapCut<br>
+Figma
+</p>
+
+</div>
+
+
+<div class="skill-group">
+
+<h3>Analytics & Business</h3>
+
+<p>
+Microsoft Excel<br>
+Tableau<br>
+Performance Analytics<br>
+Market Research<br>
+Data Analysis<br>
+Google Workspace
+</p>
+
+</div>
+
+
+</div>
+
+</div>
+
+
+---
+
+<div class="home-callout">
+
+<div class="callout-content">
+
+<div class="section-label">LET'S CONNECT</div>
+
+<h2>
+Interested in the same things?
+</h2>
+
+<p>
+I'm always interested in connecting with people working in marketing, entertainment, sports, media, and creative strategy!
+</p>
+
+<a class="project-link" href="contact.qmd">
+GET IN TOUCH →
+</a>
 
 </div>
 

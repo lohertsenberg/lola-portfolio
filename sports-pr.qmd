@@ -1,0 +1,62 @@
+---
+title: ""
+---
+
+<div class="project-hero">
+
+<div class="section-label">SPORTS MARKETING • PUBLIC RELATIONS</div>
+
+<h1 class="project-page-title">
+Sports Communication <span class="pink">PR.</span>
+</h1>
+
+<p class="project-page-intro">
+A sports marketing and public relations project developing the brand and launch strategy for a conceptual AAA baseball franchise.
+</p>
+
+<div class="project-skills">
+SPORTS MARKETING • MARKET RESEARCH • BRAND STRATEGY • PUBLIC RELATIONS
+</div>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">ABOUT THE PROJECT</div>
+
+<h2 class="case-study-title">Building a baseball brand from the ground up.</h2>
+
+<p>
+For this project, I conducted market research and developed a full brand and communications plan for a conceptual AAA baseball franchise.
+</p>
+
+<p>
+The project focused on creating a launch strategy designed to establish the franchise's identity, connect with its community, and generate attention through marketing and public relations.
+</p>
+
+<p>
+I also developed cause-related and promotional PR events, wrote professional press releases, and presented an integrated launch strategy.
+</p>
+
+</div>
+
+---
+
+<div class="case-study-section">
+
+<div class="section-label">FULL PROJECT</div>
+
+<h2 class="case-study-title">Explore the strategy.</h2>
+
+<p class="project-description">
+Scroll through the full project below.
+</p>
+
+<iframe
+src="projects/River-Rascals.pdf"
+class="pdf-viewer">
+</iframe>
+
+</div>

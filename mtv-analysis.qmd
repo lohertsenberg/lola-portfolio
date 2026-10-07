@@ -2,64 +2,42 @@
 title: ""
 ---
 
-::::: project-hero
-::: section-label
-CREATIVE WORK • MEDIA ANALYSIS
-:::
+<div class="project-hero">
+
+<div class="section-label">INFOGRAPHIC</div>
 
 <h1 class="project-page-title">
-
-MTV's Shift: [Music Videos to Reality TV.]{.pink}
-
+MTV: Music Videos to <span class="pink">Reality TV.</span>
 </h1>
 
 <p class="project-page-intro">
-
-A visual media analysis exploring MTV's evolution from a music-focused network into a reality television and pop-culture brand.
-
+A visual media analysis exploring MTV's shift from music television toward reality programming and its changing role in popular culture.
 </p>
 
-::: project-skills
-MEDIA ANALYSIS • INFOGRAPHIC DESIGN • VISUAL STORYTELLING • RESEARCH
-:::
-:::::
+<div class="project-skills">
+INFOGRAPHIC DESIGN • MEDIA ANALYSIS • VISUAL STORYTELLING
+</div>
 
-------------------------------------------------------------------------
+</div>
 
-:::: case-study-section
-::: section-label
-ABOUT THE PROJECT
-:::
 
-<h2 class="case-study-title">
+---
 
-Visualizing MTV's changing identity.
+<div class="case-study-section">
 
-</h2>
-
-<p>I created this infographic to examine MTV's shift from music videos toward reality television and entertainment programming.</p>
-
-<p>The project explores how changing viewer habits, new media platforms, production costs, popular programming, and MTV's reputation contributed to the network's evolution.</p>
-
-<p>I designed the infographic to translate the research into a visual format inspired by MTV's bold, rebellious identity.</p>
-::::
-
-------------------------------------------------------------------------
-
-:::: case-study-section
-::: section-label
-INFOGRAPHIC
-:::
+<div class="section-label">FULL PROJECT</div>
 
 <h2 class="case-study-title">
-
-Explore the full project.
-
+Explore the full infographic.
 </h2>
 
-<iframe src="projects/mtv-media-analysis-infographic.pdf#toolbar=0" class="infographic-viewer">
+<p class="project-description">
+Scroll through the full project below.
+</p>
 
+<iframe
+src="projects/mtv-media-analysis-infographic.pdf"
+class="infographic-viewer">
 </iframe>
-::::
 
-------------------------------------------------------------------------
+</div>

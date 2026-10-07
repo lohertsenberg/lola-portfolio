@@ -7,85 +7,400 @@ title: ""
 <div class="section-label">EXPERIENCE & LEADERSHIP</div>
 
 <h1 class="project-page-title">
-Beyond the <span class="pink">classroom.</span>
+Marketing, media & <span class="pink">leadership.</span>
 </h1>
 
 <p class="project-page-intro">
-Leadership, consulting, and academic experiences that have helped me develop skills in marketing, communication, collaboration, and strategy.
+Experience spanning digital marketing, social media, content strategy, sports communications, video production, and organizational leadership.
 </p>
 
 </div>
 
----
 
 <div class="experience-list">
 
+
+<!-- AKPSI PRESIDENT -->
+
 <div class="experience-item">
 
 <div class="experience-side">
-<div class="experience-date">2026 – 2027</div>
-<div class="experience-type">LEADERSHIP</div>
+
+<div class="experience-date">
+APR 2026 – PRESENT
+</div>
+
+<div class="experience-type">
+LEADERSHIP
+</div>
+
 </div>
 
 <div class="experience-main">
 
-<h2>President</h2>
+<h2>Chapter President</h2>
 
-<h3>Alpha Kappa Psi</h3>
+<h3>Alpha Kappa Psi — Chi Epsilon</h3>
 
 <p>
-Lead chapter operations and work with the executive board to coordinate meetings, events, member engagement, and organizational initiatives.
+Lead a 10-member Executive Board and oversee chapter strategy, operations, programming, and member engagement for a growing professional business fraternity.
 </p>
 
+<ul class="experience-bullets">
+
+<li>
+Increased chapter event participation by 35% by executing 5+ events per semester focused on professional development and internal relations.
+</li>
+
+<li>
+Build alumni and corporate partnerships to expand opportunities for 50+ active members.
+</li>
+
+<li>
+Lead a 10-member Executive Board in executing chapter strategy, operations, and programming.
+</li>
+
+</ul>
+
 <div class="project-skills">
-LEADERSHIP • COMMUNICATION • EVENT PLANNING • TEAM MANAGEMENT
+LEADERSHIP • TEAM MANAGEMENT • EVENT STRATEGY • PARTNERSHIPS
 </div>
 
 </div>
 
 </div>
 
+
+<!-- FREELANCE VIDEO -->
 
 <div class="experience-item">
 
 <div class="experience-side">
-<div class="experience-type">CONSULTING</div>
+
+<div class="experience-date">
+FEB 2026 – PRESENT
+</div>
+
+<div class="experience-type">
+CREATIVE EXPERIENCE
+</div>
+
 </div>
 
 <div class="experience-main">
 
-<h2>Student Consulting</h2>
+<h2>Freelance Video Editing</h2>
 
-<h3>Alpha Kappa Psi</h3>
+<h3>Digital Content & Production</h3>
 
 <p>
-Collaborated on student consulting projects focused on business challenges, research, analysis, and the development of strategic recommendations.
+Produce and edit long-form and short-form content for a finance-focused podcast using Adobe Premiere Pro and After Effects.
 </p>
 
+<ul class="experience-bullets">
+
+<li>
+Edited a long-form podcast and short-form social clips with an emphasis on pacing, visuals, and audience retention.
+</li>
+
+<li>
+Designed motion graphics, captions, and visual storytelling elements to simplify complex financial topics.
+</li>
+
+<li>
+Used keyframe animation to create dynamic visual elements designed to increase engagement and shareability.
+</li>
+
+</ul>
+
 <div class="project-skills">
-RESEARCH • STRATEGY • PRESENTATION • COLLABORATION
+ADOBE PREMIERE PRO • AFTER EFFECTS • VIDEO EDITING • MOTION GRAPHICS
 </div>
 
 </div>
 
 </div>
 
+
+<!-- PURE CANE -->
 
 <div class="experience-item">
 
 <div class="experience-side">
-<div class="experience-date">Expected 2027</div>
-<div class="experience-type">EDUCATION</div>
+
+<div class="experience-date">
+NOV 2025 – FEB 2026
+</div>
+
+<div class="experience-type">
+PROFESSIONAL EXPERIENCE
+</div>
+
 </div>
 
 <div class="experience-main">
 
-<h2>B.S. Marketing Management</h2>
+<h2>Lead Marketing Manager</h2>
 
-<h3>Cal Poly Pomona</h3>
+<h3>Pure Cane Juice Co. • San Francisco, CA</h3>
 
 <p>
-Coursework and projects spanning marketing strategy, consumer behavior, research, entertainment marketing, digital media, and multimedia journalism.
+Led digital marketing initiatives focused on growth, brand positioning, customer acquisition, and local market expansion.
+</p>
+
+<ul class="experience-bullets">
+
+<li>
+Scaled a data-driven digital growth strategy that increased social media following by 200% through performance analytics and strategic content optimization.
+</li>
+
+<li>
+Directed digital marketing initiatives to strengthen brand positioning and accelerate customer acquisition.
+</li>
+
+<li>
+Executed revenue-focused promotional strategies in partnership with ownership to expand local market presence.
+</li>
+
+</ul>
+
+<div class="project-skills">
+GROWTH STRATEGY • PERFORMANCE ANALYTICS • BRAND POSITIONING • CUSTOMER ACQUISITION
+</div>
+
+</div>
+
+</div>
+
+
+<!-- SPORTS PR -->
+
+<div class="experience-item">
+
+<div class="experience-side">
+
+<div class="experience-date">
+AUG 2025 – DEC 2025
+</div>
+
+<div class="experience-type">
+SPORTS MARKETING
+</div>
+
+</div>
+
+<div class="experience-main">
+
+<h2>Sports Communication PR Project</h2>
+
+<h3>Academic Project</h3>
+
+<p>
+Developed a full brand and communications plan for a conceptual AAA baseball franchise.
+</p>
+
+<ul class="experience-bullets">
+
+<li>
+Conducted market research to inform the franchise's brand and communications strategy.
+</li>
+
+<li>
+Designed cause-related and promotional PR events to drive community engagement and media attention.
+</li>
+
+<li>
+Wrote professional press releases and presented an integrated launch strategy.
+</li>
+
+</ul>
+
+<div class="project-skills">
+SPORTS MARKETING • MARKET RESEARCH • PUBLIC RELATIONS • BRAND STRATEGY
+</div>
+
+</div>
+
+</div>
+
+
+<!-- AKPSI SOCIAL -->
+
+<div class="experience-item">
+
+<div class="experience-side">
+
+<div class="experience-date">
+AUG 2024 – DEC 2025
+</div>
+
+<div class="experience-type">
+SOCIAL MEDIA
+</div>
+
+</div>
+
+<div class="experience-main">
+
+<h2>Director of Social Media & Marketing</h2>
+
+<h3>Alpha Kappa Psi — Chi Epsilon</h3>
+
+<p>
+Directed the chapter's social media and marketing strategy across Instagram and TikTok.
+</p>
+
+<ul class="experience-bullets">
+
+<li>
+Doubled average post views from 5K to 10K through the launch of the chapter's TikTok account.
+</li>
+
+<li>
+Contributed to a 29% increase in recruitment applications through cross-platform content strategy.
+</li>
+
+<li>
+Created original video and graphic content promoting professional, social, philanthropic, and fundraising events.
+</li>
+
+</ul>
+
+<div class="project-skills">
+SOCIAL MEDIA • TIKTOK • CONTENT CREATION • MARKETING STRATEGY
+</div>
+
+</div>
+
+</div>
+
+
+<!-- KORFIT -->
+
+<div class="experience-item">
+
+<div class="experience-side">
+
+<div class="experience-date">
+MAY 2024 – AUG 2025
+</div>
+
+<div class="experience-type">
+PROFESSIONAL EXPERIENCE
+</div>
+
+</div>
+
+<div class="experience-main">
+
+<h2>Sales & Social Media Assistant</h2>
+
+<h3>KorFIT SF • San Francisco, CA</h3>
+
+<p>
+Combined social media strategy, influencer partnerships, audience analysis, and promotional strategy to support customer acquisition and revenue growth.
+</p>
+
+<ul class="experience-bullets">
+
+<li>
+Designed and executed an influencer acquisition strategy, activating 5+ partnerships selected through audience alignment and engagement analytics.
+</li>
+
+<li>
+Generated 15K–50K views per campaign through targeted influencer partnerships.
+</li>
+
+<li>
+Conducted purchasing and segmentation analysis to optimize promotional campaigns and discount allocation.
+</li>
+
+</ul>
+
+<div class="project-skills">
+INFLUENCER STRATEGY • AUDIENCE SEGMENTATION • SOCIAL MEDIA • CUSTOMER ACQUISITION
+</div>
+
+</div>
+
+</div>
+
+
+<!-- ARTISTICTIPZ -->
+
+<div class="experience-item">
+
+<div class="experience-side">
+
+<div class="experience-date">
+DEC 2018 – JAN 2022
+</div>
+
+<div class="experience-type">
+PROFESSIONAL EXPERIENCE
+</div>
+
+</div>
+
+<div class="experience-main">
+
+<h2>Social Media Manager</h2>
+
+<h3>@Artistictipz • San Francisco, CA</h3>
+
+<p>
+Built and managed an art-focused Instagram platform, combining content strategy, trend forecasting, analytics, and creator partnerships.
+</p>
+
+<ul class="experience-bullets">
+
+<li>
+Grew the account by 275% in 18 months to more than 30K followers.
+</li>
+
+<li>
+Generated 150K–600K views per post through trend forecasting, performance analytics, and audience engagement strategy.
+</li>
+
+<li>
+Established and led a 200+ artist partnership network to expand platform reach and curate educational content.
+</li>
+
+</ul>
+
+<div class="project-skills">
+SOCIAL MEDIA STRATEGY • CONTENT STRATEGY • TREND FORECASTING • CREATOR PARTNERSHIPS
+</div>
+
+</div>
+
+</div>
+
+
+<!-- EDUCATION -->
+
+<div class="experience-item">
+
+<div class="experience-side">
+
+<div class="experience-date">
+EXPECTED MAY 2027
+</div>
+
+<div class="experience-type">
+EDUCATION
+</div>
+
+</div>
+
+<div class="experience-main">
+
+<h2>B.S. Business Administration</h2>
+
+<h3>Marketing Management • California State Polytechnic University, Pomona</h3>
+
+<p>
+Minor in Communications — Multimedia Journalism. Coursework and projects spanning marketing strategy, consumer behavior, research, entertainment marketing, sports communication, journalism, and digital media.
 </p>
 
 <div class="project-skills">
@@ -96,5 +411,5 @@ MARKETING • CONSUMER INSIGHTS • MEDIA • RESEARCH
 
 </div>
 
+
 </div>
----

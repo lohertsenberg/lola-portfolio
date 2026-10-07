@@ -2,96 +2,96 @@
 title: ""
 ---
 
-::::: project-hero
-::: section-label
-MULTIMEDIA JOURNALISM
-:::
+<section class="project-hero">
 
-<h1 class="project-page-title">
+  <div class="section-label">
+    MULTIMEDIA JOURNALISM
+  </div>
 
-Innovation Brew [Works.]{.pink}
+  <h1 class="project-page-title">
+    Innovation Brew <span class="pink">Works.</span>
+  </h1>
 
-</h1>
+  <p class="project-page-intro">
+    A multimedia journalism partner project covering Cal Poly Pomona's brewery, Innovation Brew Works, through reporting, visual storytelling, and video.
+  </p>
 
-<p class="project-page-intro">
+  <div class="project-skills">
+    REPORTING • INTERVIEWING • VIDEO • MULTIMEDIA STORYTELLING
+  </div>
 
-A multimedia journalism partner project covering Innovation Brew Works through reporting, visual storytelling, and video.
+</section>
 
-</p>
 
-::: project-skills
-REPORTING • INTERVIEWING • VIDEO • MULTIMEDIA STORYTELLING
-:::
-:::::
+<section class="case-study-section">
 
-------------------------------------------------------------------------
+  <div class="section-label">
+    ABOUT THE PROJECT
+  </div>
 
-:::: case-study-section
-::: section-label
-ABOUT THE PROJECT
-:::
+  <h2 class="case-study-title">
+    Reporting beyond the written story.
+  </h2>
 
-<h2 class="case-study-title">
+  <p>
+    For this journalism project, our team reported on Innovation Brew Works and developed a multimedia story combining written reporting with visual and video elements.
+  </p>
 
-Reporting beyond the written story.
+  <p>
+    The project gave me experience translating reporting into multiple formats and thinking about how video, visuals, and written storytelling can work together to communicate a digital story.
+  </p>
 
-</h2>
+</section>
 
-<p>For this partner journalism project, our team reported on Innovation Brew Works and developed a multimedia story combining written reporting with visual and video elements.</p>
 
-<p>The project gave me experience translating reporting into multiple formats and thinking about how video, visuals, and written storytelling can work together to communicate a story online.</p>
-::::
+<section class="case-study-section">
 
-------------------------------------------------------------------------
+  <div class="section-label">
+    WRITTEN STORY
+  </div>
 
-:::: case-study-section
-::: section-label
-WRITTEN STORY
-:::
+  <h2 class="case-study-title">
+    Read the full report.
+  </h2>
 
-<h2 class="case-study-title">
+  <p class="project-description">
+    Explore the written portion of the project below.
+  </p>
 
-Read the full report.
+  <iframe
+    src="projects/cpp-ibw-report.pdf"
+    class="pdf-viewer">
+  </iframe>
 
-</h2>
+</section>
 
-<p class="project-description">
 
-Explore the written portion of the project below.
+<section class="case-study-section">
 
-</p>
+  <div class="section-label">
+    VIDEO
+  </div>
 
-<iframe src="projects/cpp-ibw-report.pdf" class="pdf-viewer">
+  <h2 class="case-study-title">
+    Watch the story.
+  </h2>
 
-</iframe>
-::::
+  <p class="project-description">
+    The accompanying video expands the story through visual reporting and interviews.
+  </p>
 
-------------------------------------------------------------------------
+  <video
+    class="project-video"
+    controls
+    playsinline
+    preload="metadata">
 
-:::: case-study-section
-::: section-label
-VIDEO
-:::
+    <source
+      src="projects/cpp-ibw-video-web.mp4"
+      type="video/mp4">
 
-<h2 class="case-study-title">
+    Your browser does not support the video element.
 
-Watch the story.
+  </video>
 
-</h2>
-
-<p class="project-description">
-
-The accompanying video expands the story through visual reporting and interviews.
-
-</p>
-
-<video class="project-video" controls>
-
-<source src="projects/cpp-ibw-video-web.mp4" type="video/mp4">
-
-Your browser does not support the video element. </video>
-
-</div>
-
-------------------------------------------------------------------------
-::::
+</section>

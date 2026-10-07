@@ -2,62 +2,70 @@
 title: ""
 ---
 
-<div class="project-hero">
-
-<div class="section-label">ENTERTAINMENT MARKETING</div>
+::::: project-hero
+::: section-label
+ENTERTAINMENT MARKETING
+:::
 
 <h1 class="project-page-title">
-The Legacy Sequel <span class="pink">Formula.</span>
+
+The Legacy Sequel [Formula.]{.pink}
+
 </h1>
 
 <p class="project-page-intro">
-An analysis of how Hollywood uses nostalgia, familiar franchises, and audience expectations to market legacy sequels — and why some revivals succeed while others struggle.
+
+An analysis of how Hollywood uses nostalgia, familiar franchises, and audience expectations to market legacy sequels. Why do some revivals succeed while others struggle?
+
 </p>
 
-<div class="project-skills">
+::: project-skills
 FILM MARKETING • AUDIENCE ANALYSIS • INDUSTRY RESEARCH • PRESENTATION DESIGN
-</div>
+:::
+:::::
 
-</div>
+------------------------------------------------------------------------
 
----
+:::: case-study-section
+::: section-label
+ABOUT THE PROJECT
+:::
 
-<div class="case-study-section">
+<h2 class="case-study-title">
 
-<div class="section-label">ABOUT THE PROJECT</div>
+Revisiting a franchise isn't enough.
 
-<h2 class="case-study-title">Revisiting a franchise isn't enough.</h2>
+</h2>
 
-<p>
-This entertainment marketing project examines the strategy behind legacy sequels: films that return to established franchises years or decades after the original.
-</p>
+<p>This entertainment marketing project looks into the strategy behind legacy sequels: films that return to established franchises years or decades after the original.</p>
 
-<p>
-Using <em>Top Gun: Maverick</em> as a major example, I explored how nostalgia can attract existing fans while a film still needs to provide something new for modern audiences.
-</p>
+<p>Using <em>Top Gun: Maverick</em> as a golden example, I explored how nostalgia can attract existing fans while a film still needs to provide something new for modern audiences.</p>
 
-<p>
-The project also compares other franchise revivals to identify how audience expectations, returning characters, branding, and marketing can influence reception.
-</p>
+<p>This project also compares other franchise revivals to identify how audience expectations, returning characters, branding, and marketing can influence reception.</p>
+::::
 
-</div>
+------------------------------------------------------------------------
 
----
+:::: case-study-section
+::: section-label
+FULL PROJECT
+:::
 
-<div class="case-study-section">
+<h2 class="case-study-title">
 
-<div class="section-label">FULL PROJECT</div>
+Explore the presentation.
 
-<h2 class="case-study-title">Explore the presentation.</h2>
+</h2>
 
 <p class="project-description">
+
 Scroll through the full project below.
+
 </p>
 
-<iframe 
-src="projects/legacy-sequel-formula.pdf"
-class="pdf-viewer">
-</iframe>
+<iframe src="projects/legacy-sequel-formula.pdf" class="pdf-viewer">
 
-</div>
----
+</iframe>
+::::
+
+------------------------------------------------------------------------
